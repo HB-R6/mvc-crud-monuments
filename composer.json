@@ -19,5 +19,7 @@
       "App\\": "src/"
     }
   },
-  "require": {}
+  "require": {
+    "symfony/dotenv": "^7.1"
+  }
 }
